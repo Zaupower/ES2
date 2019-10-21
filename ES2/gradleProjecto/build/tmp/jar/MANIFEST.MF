@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: gradleProjecto.HelloWorld
+Implementation-Version: build01
+Specification-Vendor: ESTG
+Specification-Title: Hello World - Eng.Software
+Specification-Version: 1.0
+Implementation-Vendor: ESTG
+Main-Class: gradleProjecto.HelloWorld
+
